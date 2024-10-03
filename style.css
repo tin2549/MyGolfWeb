@@ -579,7 +579,11 @@ img{
     color: var(--title-color);
     transform: translateY(-0.25rem);
 }
-
+.footer__Tel{
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+    text-align: center;
+}
 .footer__copy{
     font-size: var(--small-font-size);
     color: var(--text-color-light);
